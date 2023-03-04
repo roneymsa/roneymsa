@@ -3,7 +3,7 @@
 
 ![Snake animation](https://github.com/roneymsa/roneymsa/blob/output/github-contribution-grid-snake.svg)
 
-- 🤔 &nbsp; Learning new technologies focused on web applications.
+- 🤔 &nbsp; Learning new technologies focused on web applications and web scraping.
 - 🎓 &nbsp; Bachelor **Information Systems(Sistemas de Informação)** at <a href="https://www.umc.br">UMC - Universidade Mogi das Cruzes</a>.
 - 💼 &nbsp; Working as **Software engineer** at <a href="https://www.jusbrasil.com.br/">Jusbrasil</a>
 
