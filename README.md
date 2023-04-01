@@ -1,8 +1,14 @@
 ﻿![](https://komarev.com/ghpvc/?username=roneymsa&color=006bed)
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roneymsa&theme=algolia" alt="7oSkaaa" /></p>
+<div align="center">
+  <a href="https://github.com/roneymsa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roneymsa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roneymsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ![Snake animation](https://github.com/roneymsa/roneymsa/blob/output/github-contribution-grid-snake.svg)
-
+  
 - 🤔 &nbsp; Learning new technologies focused on web applications and web scraping.
 - 🎓 &nbsp; Bachelor **Information Systems(Sistemas de Informação)** at <a href="https://www.umc.br">UMC - Universidade Mogi das Cruzes</a>.
 - 💼 &nbsp; Working as **Software engineer** at <a href="https://www.jusbrasil.com.br/">Jusbrasil</a>
@@ -29,13 +35,7 @@
   **Development Tools**
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roneymsa&theme=algolia" alt="7oSkaaa" /></p>
-<div align="center">
-  <a href="https://github.com/roneymsa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roneymsa&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roneymsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+ 
 <div>
     <p align="left">
     <a href="mailto:roneymendes1@gmail.com" alt="Gmail">
