@@ -1,5 +1,6 @@
-﻿![](https://komarev.com/ghpvc/?username=roneymsa&color=006bed)
+![perfil views](https://komarev.com/ghpvc/?username=roneymsa&color=006bed)
 
+![Snake animation](https://github.com/roneymsa/roneymsa/blob/output/github-contribution-grid-snake.svg)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roneymsa&theme=algolia" alt="7oSkaaa" /></p>
 <div align="center">
   <a href="https://github.com/roneymsa">
@@ -7,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roneymsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/roneymsa/roneymsa/blob/output/github-contribution-grid-snake.svg)
-  
 - 🤔 &nbsp; Learning new technologies focused on web applications and web scraping.
 - 🎓 &nbsp; Bachelor **Information Systems(Sistemas de Informação)** at <a href="https://www.umc.br">UMC - Universidade Mogi das Cruzes</a>.
 - 💼 &nbsp; Working as **Software engineer** at <a href="https://www.jusbrasil.com.br/">Jusbrasil</a>
