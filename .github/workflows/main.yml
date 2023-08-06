@@ -2,26 +2,31 @@ name: Generate Datas
 
 on:
   schedule: # execute every 24 hours
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
-    branches: [ '*' ]
-  pull_request:
-    branches: [ '*' ]
+    branches:
+    - master
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-20.04
+    timeout-minutes: 10
     permissions:
-      contents: read
+      contents: write
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@v2
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: roneymsa
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
